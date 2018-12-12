@@ -14,7 +14,7 @@
 	Common Css
 --*/
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 h1,
@@ -34,7 +34,7 @@ h3 {
   font-weight: 300;
 }
 p {
-  font-size: 15px;
+  font-size: 18px;
   line-height: 28px;
 }
 a,
@@ -79,7 +79,7 @@ header .navbar-default .navbar-nav {
 }
 header .navbar-default .navbar-nav li a {
   color: #333333;
-  padding: 10px 26px;
+  padding: 10px 16px;
   font-size: 15px;
 }
 font header .navbar-default .navbar-nav li a:hover {
@@ -150,9 +150,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #intro .section-title {
   margin-bottom: 0px;
-}
-#intro .section-title p {
-  padding-top: 20px;
+  margin-top: -80px;
 }
 /*--
 	service Start
@@ -805,6 +803,14 @@ footer .footer-manu ul li a:hover {
   margin-bottom:50px; 
   height:75vh; 
   max-height: 100vw; 
-  background-position: center; 
+  background-position: center top; 
   background-size: cover; 
 }
+
+.featured-image-contain {
+  margin-bottom:50px; 
+  height:75vh; 
+  max-height: 100vw; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;}

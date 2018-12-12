@@ -4,112 +4,142 @@ title: People
 permalink: /people/
 ---
 
-<!-- Slider Start -->
-<section id="global-header">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <h1>Drop Us A Note</h1>
-          <p>Don’t just take our word for it. Check out some of our latest work.</p>
-        </div>
-      </div>
-    </div>
-  </div>
+<section markdown="0" class="featured-image" style="background-image: url(/assets/images/people.jpg)">
 </section>
-<!-- contact form start -->
-<section id="contact-form">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <form>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Your Name">
-            </div>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Email Address">
-            </div>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Subject">
-            </div>
-          </form>
-        </div>
-      </div>
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <form>
-            <div class="form-group-2">
-              <textarea class="form-control" rows="3" placeholder="Your Message"></textarea>
-            </div>
-            <button class="btn btn-default" type="submit">Send Message</button>
-          </form>
-        </div>
-      </div>
-    </div>
-    <div id="contact-box" class="row">
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <h2>Stop By For A visit</h2>
-          <ul class="address-block">
-            <li>
-              <i class="fa fa-map-marker"></i>North Main Street,Brooklyn Australia
-            </li>
-            <li>
-              <i class="fa fa-envelope-o"></i>Email: contact@mail.com
-            </li>
-            <li>
-              <i class="fa fa-phone"></i>Phone:+88 01672 506 744
-            </li>
-          </ul>
 
-          <ul class="social-icons">
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-google"></i></a>
-            </li>
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-linkedin"></i></a>
-            </li>
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-pinterest"></i></a>
-            </li>
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-dribbble"></i></a>
-            </li>
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-behance"></i></a>
-            </li>
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-twitter"></i></a>
-            </li>
-            <li>
-              <a href="http://www.themefisher.com"><i class="fa fa-facebook"></i></a>
-            </li>
-          </ul>
-        </div>
-      </div>
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <h2>We Also Count In Google Map</h2>
-            <div class="google-map">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.472979439986!2d-73.97769068489596!3d40.7516207793276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2590247c56379%3A0x15e13bea38b43e18!2sChrysler+Building!5e0!3m2!1sen!2sus!4v1477406538220" width="555" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-            </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- Call to action Start -->
-<section id="call-to-action">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <h2>We design delightful digital experiences.</h2>
-          <p>Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design.</p>
-          <a class="btn btn-default btn-call-to-action" href="#" >Tell Us Your Story</a>
-        </div>
-      </div>
-    </div>
-  </div>
+<section>
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<h2 class="ptb">People</h2>
+<div class="media text-center">
+<div class="media-body">
+
+<div class="ptb text-justify" markdown="1">
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+</div>
+
+
+<style>
+  .ptb { margin-bottom:100px; }
+</style>
+
+<h4>Management</h4>
+<table class="table text-left ptb">
+  <thead>
+    <tr>
+      <th scope="col">Member</th>
+      <th scope="col">Organisation</th>
+      <th scope="col">Position</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a target="_blank" href="https://www.fabriziomontesi.com/">Fabrizio Montesi</a></td>
+      <td>Department of Mathematics and Computer Science, University of Southern Denmark</td>
+      <td>Head of Section (Head of DIO)</td>
+    </tr>
+    <tr>
+      <td><a target="_blank" href="http://cp3-origins.dk/people/staff/pica"> Claudio Pica</a></td>
+      <td><a target="_blank" href="https://escience.sdu.dk">eScience Centre</a> and DeiC National HPC Centre, University of Southern Denmark</td>
+      <td>Director</td>
+    </tr>
+    <tr><td><a target="_blank" href="http://findresearcher.sdu.dk/portal/en/person/svensson">Martin Svensson</a></td>
+      <td>Department of Mathematics and Computer Science, University of Southern Denmark</td>
+      <td>Head of Department</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<h4>DIO Partners</h4>
+<table class="table text-left ptb">
+  <thead>
+    <tr>
+      <th scope="col">Member</th>
+      <th scope="col">Organisation</th>
+      <th scope="col">Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mette Beck-Nielsen</td>
+      <td><a target="_blank" href="https://www.technologydenmark.dk">Technology Denmark</a></td>
+      <td>CEO</td>
+    </tr>
+  </tbody>
+</table>
+
+  <h4>Scientific Panel</h4>
+  <table class="table text-left ptb">
+    <thead>
+      <tr>
+        <th scope="col">Member</th>
+        <th scope="col">Organisation</th>
+        <th scope="col">Position</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Jakob Lykke Andersen</td>
+        <td>Department of Mathematics and Computer Science, University of Southern Denmark</td>
+        <td>Assistant Professor</td>
+      </tr>
+      <tr>
+        <td>Jacopo Mauro</td>
+        <td>Department of Mathematics and Computer Science, University of Southern Denmark</td>
+        <td>Associate Professor</td>
+      </tr>
+      <tr>
+      <td>Peter Schneider-Kamp</td>
+        <td>Department of Mathematics and Computer Science, University of Southern Denmark</td>
+        <td>Professor</td>
+      </tr>
+      <tr><td><a target="_blank" href="http://findresearcher.sdu.dk:8080/portal/da/person/tow">Torben Worm</a></td>
+        <td>Mærsk Mc-Kinney Møller Institute, University of Southern Denmark</td>
+        <td>Head of Section (Software Engineering)</td>
+      </tr>
+      <tr>
+      <td>Ralf Zimmermann</td>
+        <td>University of Southern Denmark</td>
+        <td>Associate Professor</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h4>Support Staff</h4>
+  <table class="table text-left ptb">
+    <thead>
+      <tr>
+        <th scope="col">Member</th>
+        <th scope="col">Organisation</th>
+        <th scope="col">Position</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+      <td>Barbara Tvede Andersen</td>
+        <td>Department of Mathematics and Computer Science, University of Southern Denmark</td>
+        <td>Executive Officer</td>
+      </tr>
+      <tr>
+      <td>Peter B. Madsen</td>
+        <td>Department of Mathematics and Computer Science, University of Southern Denmark</td>
+        <td>Outreach Coordinator</td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
+</div>
+</div>
+</div>
+</div>
 </section>
