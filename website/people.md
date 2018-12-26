@@ -5,7 +5,10 @@ permalink: /people/
 ---
 
 <section markdown="0" class="featured-image" style="background-image: url(/assets/images/people.jpg)">
+<p class="img-license" markdown="1">Image by [rawpixel](https://pixabay.com/en/users/rawpixel-4283981/) is licensed under Creative Commons CC0.
+</p>
 </section>
+
 
 <section>
 <div class="container">
@@ -14,18 +17,6 @@ permalink: /people/
 <h2 class="ptb">People</h2>
 <div class="media text-center">
 <div class="media-body">
-
-<!-- <div class="ptb text-justify" markdown="1">
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-</div> -->
-
 
 <style>
   .ptb { margin-bottom:100px; }

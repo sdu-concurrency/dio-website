@@ -5,6 +5,7 @@ permalink: /contacts/
 ---
 
 <section markdown="0" class="featured-image" style="background-image: url(/assets/images/contacts.jpg)">
+<p class="img-license" markdown="1">Image by [rawpixel](https://pixabay.com/en/users/rawpixel-4283981/) is licensed under Creative Commons CC0.</p>
 </section>
 
 <section>

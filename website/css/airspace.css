@@ -801,10 +801,19 @@ footer .footer-manu ul li a:hover {
 
 .featured-image {
   margin-bottom:50px; 
-  height:75vh; 
+  height:75vh;
   max-height: 100vw; 
-  background-position: center top; 
-  background-size: cover; 
+  background-position: center; 
+  background-size: cover;
+  position: relative;
+}
+
+.img-license {
+  color: white;
+  position: absolute;
+  bottom: -15px;
+  left: 0;
+  font-size: xx-small;
 }
 
 .featured-image-contain {
