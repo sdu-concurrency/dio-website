@@ -14,25 +14,25 @@ permalink: /business-club/
 
 # The DIO Business Club
 
-The DIO Business Club gives companies access to exclusive services offered by the Digital Innovation Office at the University of Southern Denmark.
+The DIO Business Club gives companies access to exclusive services offered by the Digital Innovation Office at the University of Southern Denmark. Companies can always select individual services based on their needs, regardless of their membership level. The silver and gold memberships have annual fees that give access to special discounts.
 
 <style>
-.panel-bronze>.panel-heading { 
+.panel-bronze>.panel-heading {
     background-color: #cc6633 !important;
  }
- .panel-bronze { 
+ .panel-bronze {
     border-color: #cc6633 !important;
  }
- .panel-silver>.panel-heading { 
+ .panel-silver>.panel-heading {
     background-color: #cccccc !important;
  }
- .panel-silver { 
+ .panel-silver {
     border-color: #cccccc !important;
- } 
- .panel-gold>.panel-heading { 
+ }
+ .panel-gold>.panel-heading {
     background-color: #cc9933 !important;
  }
- .panel-gold { 
+ .panel-gold {
     border-color: #cc9933 !important;
  }
 </style>
@@ -63,7 +63,7 @@ The DIO Business Club gives companies access to exclusive services offered by th
 <div class="panel panel-silver">
 <div class="panel-heading">
 <div class="panel-title">
-  <small>DKK XX.000 / year excl VAT</small>
+  <small>5.000 DKK / year excl VAT</small>
   <h2><strong>Silver Membership</strong></h2>
 </div>
 </div>
@@ -71,9 +71,9 @@ The DIO Business Club gives companies access to exclusive services offered by th
 
 {{ item_mark }} All benefits of the bronze membership
 
-{{ item_mark }} [Free participation in the Project Day in Computer Science](#project-day-in-computer-science)
+{{ item_mark }} Free participation in the [Project Day in Computer Science](#project-day-in-computer-science) (normal fee: 3.000 DKK)
 
-{{ item_mark }} [Discounted fee of X.000 DKK for a stand at the Career Day (normal fee: Y.000 DKK)](#stand-at-the-career-day)
+{{ item_mark }} Discounted fee of 3.000 DKK for a [stand at the Career Day](#stand-at-the-career-day) of the Department of Mathematics and Computer Science (normal fee: 8.000 DKK)
 
 </div>
 </div>
@@ -83,7 +83,7 @@ The DIO Business Club gives companies access to exclusive services offered by th
 <div class="panel panel-gold">
 <div class="panel-heading">
 <div class="panel-title">
-  <small>DKK XX.000 / year excl VAT</small>
+  <small>15.000 DKK / year excl VAT</small>
   <h2><strong>Gold Membership</strong></h2>
 </div>
 </div>
@@ -91,15 +91,15 @@ The DIO Business Club gives companies access to exclusive services offered by th
 
 {{ item_mark }} All benefits of the bronze and silver memberships
 
-{{ item_mark }} [Free stand at the Career Day of a degree of your choice (normal fee: Y.000 DKK)](#stand-at-the-career-day)
+{{ item_mark }} [Free stand at the Career Day](#stand-at-the-career-day) of the Department of Mathematics and Computer Science (normal price: 8.000 DKK)
 
-{{ item_mark }} [Free participation in one D-Inspire workshop](#d-inspire-workshop)
+{{ item_mark }} Discount of 1.000 for our [post-education offers](#post-education)
 
-{{ item_mark }} [Free Bus tour stop at your company](#company-bus-tour-stop)
+{{ item_mark }} [Free Bus tour stop at your company](#company-bus-tour-stop) (normal price: 2.000 DKK)
 
-{{ item_mark }} [Free participation in the SDU Talent Fellowship in a degree of your choice](#sdu-talent-fellowship)
+{{ item_mark }} [Free participation in the SDU Talent Fellowship in a degree of your choice](#sdu-talent-fellowship) (normal price: 5.000 DKK)
 
-{{ item_mark }} [Profiling at IMADA](#profiling-at-imada)
+{{ item_mark }} [Profiling at IMADA](#profiling-at-imada) (normal price: 3.000 DKK per year)
 
 </div>
 </div>
@@ -114,7 +114,7 @@ The DIO Business Club gives companies access to exclusive services offered by th
 <div class="container">
 <div class="row">
 <div class="col-xs-12"  markdown="1">
-  
+
 ### Newsletter
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -160,7 +160,7 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### D-Inspire workshop
+### Post Education
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
