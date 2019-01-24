@@ -93,7 +93,7 @@ The DIO Business Club gives companies access to exclusive services offered by th
 
 {{ item_mark }} [Free stand at the Career Day](#stand-at-the-career-day) of the Department of Mathematics and Computer Science (normal price: 8.000 DKK)
 
-{{ item_mark }} Discount of 1.000 for our [post-education offers](#post-education)
+{{ item_mark }} Discount of 1.000 DKK for our [post-education offers](#post-education)
 
 {{ item_mark }} [Free Bus tour stop at your company](#company-bus-tour-stop) (normal price: 2.000 DKK)
 
