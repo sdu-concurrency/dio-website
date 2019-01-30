@@ -141,7 +141,7 @@ on work on career prospective.
 ### Post Education
 
 IMADA is well known for its teaching. Based on the companies demands, advance
-and target courses will be offered and adapted to the companie's needs (e.g.,
+and target courses will be offered and adapted to the company's needs (e.g.,
 Microservice Programming, DevOps, Deep Learning, Python Programming).
 
 ### Company bus tour stop
