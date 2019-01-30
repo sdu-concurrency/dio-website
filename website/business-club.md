@@ -120,7 +120,7 @@ The DIO Business Club gives companies access to exclusive services offered by th
 IMADA has different world-renown expert in fields such as data science, AI,
 Machine Learning, Mathematics, Programming, Algorithms, Software Development,
 and Bioinformatics. Through DIO it is possible to access these expertise on
-consultancy bases.
+consultancy basis.
 
 ### Project Day in Computer Science
 
@@ -141,14 +141,14 @@ on work on career prospective.
 ### Post Education
 
 IMADA is well known for its teaching. Based on the companies demands, advance
-and target courses will be offered and adapted to the companies needs (e.g.,
+and target courses will be offered and adapted to the companie's needs (e.g.,
 Microservice Programming, DevOps, Deep Learning, Python Programming).
 
 ### Company bus tour stop
 
 Following IMADA tradition, once a year we organize a tour where students are
 brought to visit 3-5 companies, so companies can better present themselves
-directly at their headquarters, showing their facilities and introducing some of
+directly at their headquarters, showing their facilities and introduce some of
 their employees. 
 
 ### SDU Talent Fellowship
@@ -157,8 +157,7 @@ SDU Talent Fellowship is a unique opportunity for companies to be matched with
 foreign master students for a study job (12 hours per week) at the company. The
 Fellowship is designed to provide the student a direct access to the company and
 give the insights into what is going on in the technology industry. More details
-are available
-[here](https://www.sdu.dk/en/uddannelse/kandidat/datalogi/jobmuligheder/talentfellowship).
+are available here. [Link](https://www.sdu.dk/en/uddannelse/kandidat/datalogi/jobmuligheder/talentfellowship).
 
 
 ### Business Profiling at IMADA
