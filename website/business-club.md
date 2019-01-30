@@ -53,8 +53,6 @@ The DIO Business Club gives companies access to exclusive services offered by th
 
 {{ item_mark }} [Consultancy services](#consultancy-services)
 
-{{ item_mark }} [Possibility of purchasing services for businesses for their normal fees](#services-for-business)
-
 </div>
 </div>
 </div>
@@ -99,7 +97,7 @@ The DIO Business Club gives companies access to exclusive services offered by th
 
 {{ item_mark }} [Free participation in the SDU Talent Fellowship in a degree of your choice](#sdu-talent-fellowship) (normal price: 5.000 DKK)
 
-{{ item_mark }} [Profiling at IMADA](#profiling-at-imada) (normal price: 3.000 DKK per year)
+{{ item_mark }} [Business Profiling at IMADA](#profiling-at-imada) (normal price: 3.000 DKK per year)
 
 </div>
 </div>
@@ -115,86 +113,64 @@ The DIO Business Club gives companies access to exclusive services offered by th
 <div class="row">
 <div class="col-xs-12"  markdown="1">
 
-### Newsletter
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Consultancy services.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### Services for business
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+IMADA has different world-renown expert in fields such as data science, AI,
+Machine Learning, Mathematics, Programming, Algorithms, Software Development,
+and Bioinformatics. Through DIO it is possible to access these expertise on
+consultancy bases.
 
 ### Project Day in Computer Science
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+DIO organize an annually meeting where companies and IMADA students have the
+opportunity to network and discuss possible study work, internship, or project
+collaborations. Companies are invited to present their activities and some of
+the challenges that they are facing to trigger the dialog and the brainstorm
+activity.
 
 ### Stand at the Career Day
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+IMADA Career Day is a traditional and successful half day event where IMADA
+alumni working in companies present and talk about their transition from study
+to work, their experiences, and the challenges that they overcame. Afterwards,
+the companies have the opportunities to have one to one meetings with students
+on work on career prospective.
 
 ### Post Education
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+IMADA is well known for its teaching. Based on the companies demands, advance
+and target courses will be offered and adapted to the companies needs (e.g.,
+Microservice Programming, DevOps, Deep Learning, Python Programming).
 
 ### Company bus tour stop
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Following IMADA tradition, once a year we organize a tour where students are
+brought to visit 3-5 companies, so companies can better present themselves
+directly at their headquarters, showing their facilities and introducing some of
+their employees. 
 
 ### SDU Talent Fellowship
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+SDU Talent Fellowship is a unique opportunity for companies to be matched with
+foreign master students for a study job (12 hours per week) at the company. The
+Fellowship is designed to provide the student a direct access to the company and
+give the insights into what is going on in the technology industry. More details
+are available
+[here](https://www.sdu.dk/en/uddannelse/kandidat/datalogi/jobmuligheder/talentfellowship).
 
-### Profiling at IMADA
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Business Profiling at IMADA
+
+The company has the possibility to profile itself with a logo at the business
+partner wall.
+
+### Newsletter
+
+The DIO Newsletter will be used to send out important information and news
+connected to the DIO activities and summarizing what is going on at IMADA
+currently.
 
 </div>
 </div>
