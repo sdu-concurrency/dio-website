@@ -97,7 +97,7 @@ The DIO Business Club gives companies access to exclusive services offered by th
 
 {{ item_mark }} [Free participation in the SDU Talent Fellowship in a degree of your choice](#sdu-talent-fellowship) (normal price: 5.000 DKK)
 
-{{ item_mark }} [Business Profiling at IMADA](#profiling-at-imada) (normal price: 3.000 DKK per year)
+{{ item_mark }} [Business Profiling at IMADA](#business-profiling-at-imada) (normal price: 3.000 DKK per year)
 
 </div>
 </div>
@@ -146,10 +146,10 @@ Microservice Programming, DevOps, Deep Learning, Python Programming).
 
 ### Company bus tour stop
 
-Following IMADA tradition, once a year we organize a tour where students are
-brought to visit 3-5 companies, so companies can better present themselves
-directly at their headquarters, showing their facilities and introduce some of
-their employees. 
+On requests, we organize a tour where interested students are brought to visit
+the companies, directly at their headquarters. In this way, companies can better
+present themselves showing their facilities, introduce some of their employees
+and explain how and what they are doing.
 
 ### SDU Talent Fellowship
 
