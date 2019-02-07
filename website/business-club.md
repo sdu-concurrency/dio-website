@@ -69,9 +69,9 @@ The DIO Business Club gives companies access to exclusive services offered by th
 
 {{ item_mark }} All benefits of the bronze membership
 
-{{ item_mark }} Free participation in the [Project Day in Computer Science](#project-day-in-computer-science) (normal fee: 3.000 DKK)
+{{ item_mark }} Free participation in the [Project Day in Computer Science](#project-day-in-computer-science)
 
-{{ item_mark }} Discounted fee of 3.000 DKK for a [stand at the Career Day](#stand-at-the-career-day) of the Department of Mathematics and Computer Science (normal fee: 8.000 DKK)
+{{ item_mark }} Discounted fee for a [stand at the Career Day](#stand-at-the-career-day) of the Department of Mathematics and Computer Science 
 
 </div>
 </div>
@@ -89,15 +89,15 @@ The DIO Business Club gives companies access to exclusive services offered by th
 
 {{ item_mark }} All benefits of the bronze and silver memberships
 
-{{ item_mark }} [Free stand at the Career Day](#stand-at-the-career-day) of the Department of Mathematics and Computer Science (normal price: 8.000 DKK)
+{{ item_mark }} [Free stand at the Career Day](#stand-at-the-career-day) of the Department of Mathematics and Computer Science
 
-{{ item_mark }} Discount of 1.000 DKK for our [post-education offers](#post-education)
+{{ item_mark }} Discount fee for our [post-education offers](#post-education)
 
-{{ item_mark }} [Free Bus tour stop at your company](#company-bus-tour-stop) (normal price: 2.000 DKK)
+{{ item_mark }} [Discount on bus tour stop at your company](#company-bus-tour-stop)
 
-{{ item_mark }} [Free participation in the SDU Talent Fellowship in a degree of your choice](#sdu-talent-fellowship) (normal price: 5.000 DKK)
+{{ item_mark }} [Free participation in the SDU Talent Fellowship in a degree of your choice](#sdu-talent-fellowship)
 
-{{ item_mark }} [Business Profiling at IMADA](#business-profiling-at-imada) (normal price: 3.000 DKK per year)
+{{ item_mark }} [Business Profiling at IMADA](#business-profiling-at-imada)
 
 </div>
 </div>
@@ -148,7 +148,7 @@ Microservice Programming, DevOps, Deep Learning, Python Programming).
 
 On requests, we organize a tour where interested students are brought to visit
 the companies, directly at their headquarters. In this way, companies can better
-present themselves showing their facilities, introduce some of their employees
+present themselves showing their facilities, introduce some of their employees,
 and explain how and what they are doing.
 
 ### SDU Talent Fellowship
