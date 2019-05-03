@@ -14,7 +14,7 @@ permalink: /business-club/
 
 # The DIO Business Club
 
-The DIO Business Club gives companies access to exclusive services offered by the Digital Innovation Office at the University of Southern Denmark. Companies can always select individual services based on their needs, regardless of their membership level. The silver and gold memberships have annual fees that give access to special discounts.
+The DIO Business Club gives companies access to exclusive services offered by the Digital Innovation Office at the University of Southern Denmark. Companies can always select individual services based on their needs, regardless of their membership level. The silver and gold memberships have annual fees that give access to special offers.
 
 <style>
 .panel-bronze>.panel-heading {
@@ -69,9 +69,8 @@ The DIO Business Club gives companies access to exclusive services offered by th
 
 {{ item_mark }} All benefits of the bronze membership
 
-{{ item_mark }} Free participation in the [Project Day in Computer Science](#project-day-in-computer-science)
 
-{{ item_mark }} Discounted fee for a [stand at the Career Day](#stand-at-the-career-day) of the Department of Mathematics and Computer Science 
+{{ item_mark }} Free [stand at the Career Day](#stand-at-the-career-day) of the Department of Mathematics and Computer Science 
 
 </div>
 </div>
@@ -89,13 +88,11 @@ The DIO Business Club gives companies access to exclusive services offered by th
 
 {{ item_mark }} All benefits of the bronze and silver memberships
 
-{{ item_mark }} [Free stand at the Career Day](#stand-at-the-career-day) of the Department of Mathematics and Computer Science
-
 {{ item_mark }} Discount fee for our [post-education offers](#post-education)
 
-{{ item_mark }} [Discount on bus tour stop at your company](#company-bus-tour-stop)
+{{ item_mark }} [Bus tour to your company](#company-bus-tour)
 
-{{ item_mark }} [Free participation in the SDU Talent Fellowship in a degree of your choice](#sdu-talent-fellowship)
+{{ item_mark }} [Free participation in the SDU Talent Fellowship](#sdu-talent-fellowship)
 
 {{ item_mark }} [Business Profiling at IMADA](#business-profiling-at-imada)
 
@@ -122,14 +119,6 @@ Machine Learning, Mathematics, Programming, Algorithms, Software Development,
 and Bioinformatics. Through DIO it is possible to access these expertise on
 consultancy basis.
 
-### Project Day in Computer Science
-
-DIO organize an annually meeting where companies and IMADA students have the
-opportunity to network and discuss possible study work, internship, or project
-collaborations. Companies are invited to present their activities and some of
-the challenges that they are facing to trigger the dialog and the brainstorm
-activity.
-
 ### Stand at the Career Day
 
 IMADA Career Day is a traditional and successful half day event where IMADA
@@ -144,7 +133,7 @@ IMADA is well known for its teaching. Based on the companies demands, advance
 and target courses will be offered and adapted to the company's needs (e.g.,
 Microservice Programming, DevOps, Deep Learning, Python Programming).
 
-### Company bus tour stop
+### Company bus tour
 
 On requests, we organize a tour where interested students are brought to visit
 the companies, directly at their headquarters. In this way, companies can better

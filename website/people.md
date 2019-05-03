@@ -93,7 +93,7 @@ permalink: /people/
         <td>Department of Mathematics and Computer Science, University of Southern Denmark</td>
         <td>Professor</td>
       </tr>
-      <tr><td><a target="_blank" href="http://findresearcher.sdu.dk:8080/portal/da/person/tow">Torben Worm</a></td>
+      <tr><td>Torben Worm</td>
         <td>Mærsk Mc-Kinney Møller Institute, University of Southern Denmark</td>
         <td>Head of Section (Software Engineering)</td>
       </tr>
@@ -115,11 +115,6 @@ permalink: /people/
       </tr>
     </thead>
     <tbody>
-      <tr>
-      <td>Barbara Tvede Andersen</td>
-        <td>Department of Mathematics and Computer Science, University of Southern Denmark</td>
-        <td>Executive Officer</td>
-      </tr>
       <tr>
       <td>Peter B. Madsen</td>
         <td>Department of Mathematics and Computer Science, University of Southern Denmark</td>

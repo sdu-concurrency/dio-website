@@ -47,7 +47,7 @@ If you are a company, organisation, or student interested in exploring opportuni
   <div style="padding-top:50px; padding-bottom:50px;" class="row">
     <div class="col-xs-3 text-center">
       <div class="icon border-gray d-block mr-3 display-4 mx-auto mb-4"><i class="fa text-secondary fa-phone"></i></div>
-      <p class="display-2"><a href="tel:+45-6550-7171">+45 6550 7171</a></p>
+      <p class="display-2"><a href="tel:+45-6550-7171">+45 6550 7171 <br> Fabrizio Montesi</a></p>
     </div>
     <div class="col-xs-3 text-center">
       <div class="icon border-gray d-block mr-3 display-4 mx-auto mb-4"><i class="fa text-secondary fa-at"></i></div>
@@ -56,9 +56,9 @@ If you are a company, organisation, or student interested in exploring opportuni
     <div class="col-xs-6 text-center">
       <div class="icon border-gray d-block mr-3 display-4 mx-auto mb-4"><i class="fa text-secondary fa-envelope"></i></div>
       <p class="display-2">
-    The Digital Innovation Office,<br>
+    The Digital Innovation Office<br>
     University of Southern Denmark<br>
-    Campusvej 55,<br> 5230 Odense M</p>
+    Campusvej 55<br> 5230 Odense M</p>
     </div>
   </div>
 </div>

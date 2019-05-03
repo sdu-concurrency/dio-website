@@ -16,27 +16,27 @@ permalink: /activities/
 <h2 style="margin-bottom:50px;">The activities of DIO include</h2>
 
 
-#### Promoting collaborations
+#### Collaborations
 
 We promote collaboration in research and innovation, by supporting joint projects, meet-ups, and the creation of consortia.
 
 <br>
 
-#### Maintaining the SDU Digital Business Club
+#### SDU Digital Business Club
 
 We maintain a registry of companies and other external organisations interested in collaborations on Digital Technology.
 
 <br>
 
-#### Managing the SDU Talent Fellowship
+#### SDU Talent Fellowship
 
-Beyond managing the Talent Fellowship, we foster further recruitment opportunities for both international and national students.
+We manage the Talent Fellowship and foster further recruitment opportunities for both international and national students.
 
 <br>
 
 #### Advanced Education
 
-Discussing with businesses the potential for new (post-)education initiatives (e.g., intensive workshops), regarding digitalisation and computational science.
+We discuss with businesses the potential for new (post-)education initiatives (e.g., intensive workshops), regarding digitalisation and computational science.
   
 </div>
 </div>
@@ -111,7 +111,7 @@ Discussing with businesses the potential for new (post-)education initiatives (e
 <div class="row">
 
 <div class="col-xs-12" markdown="1">
-The main technical areas of competence covered by DIO include Computer Science and Engineering, Big Data, Digitalisation, and Industry 4.0. 
+The main technical areas of competence and expertise covered by DIO include Computer Science and Engineering, Big Data, Digitalisation, and Industry 4.0. 
 
 DIO combines world-level experts in:
 
@@ -130,7 +130,7 @@ DevOps, Internet of Things, Microservices, Dark Data.
 </div>
 
 <div markdown="1">
-Thanks to its collaborations and partnerships, DIO holds an outstanding position to help promoting innovation both on the technical and business levels:
+Thanks to its collaborations and partnerships, DIO holds an outstanding position to help promoting innovation both on the technical and business levels.
 
 - It is part of the [Microservices Community](https://microservices.sdu.dk), an international group of experts (practitioners and researchers) in the software paradigm of Microservices: the state-of-the-art in building modern, large-scale systems.
 
