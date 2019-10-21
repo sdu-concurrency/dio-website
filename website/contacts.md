@@ -10,6 +10,7 @@ permalink: /contacts/
 
 <section>
 <div class="container">
+
 <div class="row">
 <div class="col-xs-12" markdown="1">
 <h2 style="margin-bottom:50px;">Contacts</h2>
@@ -17,6 +18,7 @@ permalink: /contacts/
 If you are a company, organisation, or student interested in exploring opportunities for collaboration with us and our affiliated organisations, you are welcome to contact us.
 </div>
 </div>
+
 <style>
 .mx-auto {
     margin-right: auto !important;
@@ -63,4 +65,54 @@ If you are a company, organisation, or student interested in exploring opportuni
   </div>
 </div>
 
+
+<style>
+button, .button, input[type="text"], input[type="email"], input[type="search"], input[type="submit"], textarea {
+    padding: .6rem 1.2rem;
+    margin-bottom: .6rem;
+    transition: color .1s, background-color .1s, border .1s;
+    line-height: inherit;
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+    -webkit-appearance: none;
+}
+
+input[type="text"], input[type="email"], input[type="search"], textarea {
+    width: 100%;
+    border: 1px solid #b3b3b3;
+}
+
+input[type="submit"], button, .button {
+    cursor: pointer;
+    display: inline-block;
+    background: #05bf85;
+    position: relative;
+    transition: box-shadow .1s;
+    will-change: box-shadow;
+    box-shadow: inset 0 0 0 2rem transparent;
+}
+</style>
+
+<div class="container">
+<div class="row">
+<div class="col-xs-12" markdown="1">
+## Stay informed on the activities of DIO
+
+DIO maintains a newsletter for people and organisations that want to be informed when upcoming initiatives are organised (e.g., projects, courses, seminars).
+ 
+To become a member of the newsletter, please fill in and send the form below.
+
+<div id="join-form">
+  <form action="https://formspree.io/dio@sdu.dk" method="POST">
+    <input type="text" name="name" placeholder="Your name">
+    <input type="email" name="_replyto" placeholder="Your email">
+    <input type="text" name="subject" placeholder="Subject">
+    <textarea name="message" placeholder="Message"></textarea>
+    <input type="submit" value="Send">
+  </form>
+</div>
+</div>
+
+</div>
 </section>
