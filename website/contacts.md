@@ -112,7 +112,9 @@ To become a member of the newsletter, please fill in and send the form below.
     <input type="submit" value="Send">
   </form>
 </div>
-</div>
 
 </div>
+</div>
+</div>
+
 </section>
