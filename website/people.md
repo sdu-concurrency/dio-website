@@ -81,7 +81,7 @@ permalink: /people/
       <tr>
         <td>Jakob Lykke Andersen</td>
         <td>Department of Mathematics and Computer Science, University of Southern Denmark</td>
-        <td>Assistant Professor</td>
+        <td>Associate Professor</td>
       </tr>
       <tr>
         <td>Jacopo Mauro</td>
